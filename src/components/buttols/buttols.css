@@ -1,5 +1,9 @@
-.buttols-container{
+.buttols-container, .cart-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+}
+.cart-container{
+    grid-template-columns: repeat(6, 1fr);
+    margin-bottom: 30px;
 }
