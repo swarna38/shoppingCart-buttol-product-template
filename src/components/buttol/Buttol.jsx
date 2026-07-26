@@ -1,8 +1,8 @@
 import './buttol.css'
 
-const Buttol = ({buttol, handelAddToCart}) => {
+const Buttol = ({buttol, handelAddToCart, handelRemoveFromCart}) => {
 
-    const {title, stock, image, price, rating} = buttol;
+    const {id, title, stock, image, price, rating} = buttol;
     return (
         <div className="buttol">
             
@@ -12,6 +12,7 @@ const Buttol = ({buttol, handelAddToCart}) => {
             <h3>Price: {price}</h3>
             <h3>Rating: {rating}</h3>
             <button onClick={() => handelAddToCart(buttol)}>Purches</button>
+            <button onClick={() => handelRemoveFromCart(id)}>Remove</button>
         </div>
     );
 };

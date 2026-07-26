@@ -20,6 +20,11 @@ const Buttols = () => {
         setCart(newCart)
     }
 
+    const handelRemoveFromCart = id => {
+        const newCarts = carts.filter(cart => cart.id !== id);
+        setCart(newCarts);
+    }
+
     return (
         <div>
             <h3>product :{buttols.length}</h3>
@@ -39,9 +44,10 @@ const Buttols = () => {
             <div className="buttols-container">
                 {
                 buttols.map(buttol => <Buttol 
-                    key={buttol.id}
+                    key={buttol.id}//buttols map so use key
                     buttol={buttol}
                     handelAddToCart={handelAddToCart}
+                    handelRemoveFromCart={handelRemoveFromCart}
                 ></Buttol>)
             }
             </div>
