@@ -1,0 +1,11 @@
+.buttol{
+    padding: 10px;
+    border:2px solid purple;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.buttol img{
+    width: 300px;
+    height: 300px;
+}

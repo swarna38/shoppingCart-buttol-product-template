@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "category": "Electronics",
+    "stock": 15,
+    "rating": 4.5,
+    "description": "High-quality sound with active noise cancellation.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Smart Fitness Watch",
+    "price": 89.99,
+    "category": "Electronics",
+    "stock": 8,
+    "rating": 4.7,
+    "description": "Track your daily steps, heart rate, and sleep quality.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Ergonomic Mechanical Keyboard",
+    "price": 75.00,
+    "category": "Accessories",
+    "stock": 0,
+    "rating": 4.3,
+    "description": "RGB backlit mechanical keyboard with tactile switches.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Pro Wireless Gaming Mouse",
+    "price": 45.50,
+    "category": "Accessories",
+    "stock": 25,
+    "rating": 4.6,
+    "description": "Ultra-fast response time with customizable DPI settings.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Minimalist Stainless Water Bottle",
+    "price": 19.99,
+    "category": "Lifestyle",
+    "stock": 30,
+    "rating": 4.2,
+    "description": "Insulated bottle keeps liquids cold for 24 hours.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Classic Genuine Leather Wallet",
+    "price": 29.99,
+    "category": "Fashion",
+    "stock": 5,
+    "rating": 4.8,
+    "description": "Slim design with RFID blocking technology.",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Waterproof Travel Backpack",
+    "price": 49.99,
+    "category": "Travel",
+    "stock": 12,
+    "rating": 4.4,
+    "description": "Spacious compartments with dedicated laptop sleeve.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 8,
+    "title": "HD DSLR Camera Lens",
+    "price": 299.00,
+    "category": "Photography",
+    "stock": 3,
+    "rating": 4.9,
+    "description": "Professional 50mm f/1.8 prime lens for crisp portraits.",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Portable Espresso Coffee Maker",
+    "price": 39.99,
+    "category": "Home & Kitchen",
+    "stock": 0,
+    "rating": 4.1,
+    "description": "Compact handheld coffee press for travel and outdoor.",
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Comfortable Running Shoes",
+    "price": 64.99,
+    "category": "Footwear",
+    "stock": 18,
+    "rating": 4.7,
+    "description": "Lightweight breathable mesh sneakers for daily workouts.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+  }
+]
